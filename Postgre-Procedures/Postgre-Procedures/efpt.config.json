@@ -1,0 +1,86 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "PROCEDURContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "Postgre_Procedures",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "public.Categories",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.CategoryRelations",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.get_all_category_names",
+         "ObjectType": 1
+      },
+      {
+         "Name": "public.getcategoryhierarchy",
+         "ObjectType": 1
+      },
+      {
+         "Name": "public.lorem",
+         "ObjectType": 1
+      },
+      {
+         "Name": "public.test",
+         "ObjectType": 1
+      },
+      {
+         "Name": "public.test_proc",
+         "ObjectType": 1
+      },
+      {
+         "Name": "public.test1907",
+         "ObjectType": 1
+      },
+      {
+         "Name": "public.tumunulistele",
+         "ObjectType": 1
+      },
+      {
+         "Name": "public.tumunulistele43",
+         "ObjectType": 1
+      },
+      {
+         "Name": "public.tumunulisteleproc",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
